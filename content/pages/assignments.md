@@ -9,8 +9,45 @@ Sample Problem Sets
 
 The assignments are due in the sessions noted in the table.
 
-| SES # | ASSIGNMENTS |
-| --- | --- |
-| 4 | Problem Set 1 - Featuring a Scale Model of the Solar System in MIT's Infinite Corridor ([PDF]({{< baseurl >}}/resources/ps1)) |
-| 5 | Problem Set 2 - Featuring the Death of the Sun and the Destruction of Earth ([PDF]({{< baseurl >}}/resources/ps2)) |
-| 6 | Problem Set 3 - Featuring the Javelin Event at the Interplanetary Olympics and a Comet Possibly Aimed Towards Earth ([PDF]({{< baseurl >}}/resources/ps3))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 1 - Featuring a Scale Model of the Solar System in MIT's Infinite Corridor ([PDF]({{< baseurl >}}/resources/ps1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 2 - Featuring the Death of the Sun and the Destruction of Earth ([PDF]({{< baseurl >}}/resources/ps2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 3 - Featuring the Javelin Event at the Interplanetary Olympics and a Comet Possibly Aimed Towards Earth ([PDF]({{< baseurl >}}/resources/ps3))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
